@@ -58,7 +58,7 @@ button {
 button:hover {
     background-color:hsl(75, 94%, 57%);
     color: hsl(0, 0%, 12%);
-    cursor: url('D:/frontend mentor app/newbie/social-links-profile-main/assets/images/pngegg.png'), auto;
+    cursor: url('assets/images/pngegg.png'), auto;
 }
 
 
